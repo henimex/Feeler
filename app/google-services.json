@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "166252219780",
+    "project_id": "feeler-ae026",
+    "storage_bucket": "feeler-ae026.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166252219780:android:f139974fea2a34b75061d1",
+        "android_client_info": {
+          "package_name": "com.devhen.feeler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "166252219780-tb38c5a88stbd6qnuub65121h22l0nti.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY-J_Jisx9k3Tspq1Cxi7KWxWuCImIapA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "166252219780-tb38c5a88stbd6qnuub65121h22l0nti.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
